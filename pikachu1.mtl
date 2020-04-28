@@ -6,7 +6,7 @@ newmtl _auto_
 Ka 0.000000 0.000000 0.000000
 Kd 0.843137 0.764706 0.419608
 Ks 0.330000 0.330000 0.330000
-map_Kd pikachu/auto_.png
+map_Kd pikachu/auto.png
 
 newmtl _auto_2
 Ka 0.000000 0.000000 0.000000
